@@ -1,0 +1,15 @@
+{
+  "name": "logger-plugin",
+  "version": "1.0.0",
+  "description": "This is used to log in console and in cloudwatch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandeep raj",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "intercept-stdout": "^0.1.2"
+  }
+}

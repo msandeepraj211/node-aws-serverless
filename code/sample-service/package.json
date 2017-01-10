@@ -1,0 +1,16 @@
+{
+  "name": "sample-service",
+  "version": "1.0.0",
+  "description": "This service is used as demo for creating new services",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./spec/*.js"
+  },
+  "author": "Sandeep Raj",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "lambda-tester": "^2.6.1",
+    "mocha": "^3.2.0"
+  }
+}
